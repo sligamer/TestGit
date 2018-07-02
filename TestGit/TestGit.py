@@ -1,2 +1,2 @@
 print ('hw now brn cow')
-print ('its rick')
+print ('its rick1')
