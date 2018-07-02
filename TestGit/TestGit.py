@@ -1,4 +1,5 @@
-print ('hw')
-print ('its justin merge')
-print ('Larry made branch larry')
+# Justin Freres - python method or function
+def funcname():
+    print('execute python function!')
 
+funcname()
