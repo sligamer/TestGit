@@ -1,2 +1,2 @@
-print ('hw')
-print ('its justin')
+print ('hw now brn cow')
+print ('its rick')
